@@ -104,19 +104,19 @@
         "version": "143.0.3632.0"
     },
     "msedge-canary-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_143.0.3632.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f98a290c-b1c9-463b-826b-07ff0faa072e?P1=1761685698&P2=404&P3=2&P4=HB7hmQQVH8bppTXNagVMStmMVHanvz1J%2bzIomnsZkRt5EpS1iVBZehAUwxfeFTvWRmloxYMM69kTtbzbeeQ7tw%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 186455136,
-        "Sha1": "OHP4W8RlzJ0Q/VqVnQutcwCeK/c=",
-        "Sha256": "c4828d2057c3f2784a7bfc362f23f9d0787840b5cd995fa90d56cf6fc61f6c33",
-        "version": "143.0.3632.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_143.0.3634.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6637f0af-f736-4f21-ad06-b9eb72e6ce1e?P1=1761744424&P2=404&P3=2&P4=WGWrKElXUpfTdTqlv5GuIYlc1i%2fF5PD2XX%2flzlzMmLickyG3QkEzuENIny3Wb98LYwC3fy8gEzervFuYXM8EXw%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 186430560,
+        "Sha1": "n+r+LaZGqr8u764z1SbZoVXXkHE=",
+        "Sha256": "a83b602a8f9de575129dccee9ea2627528c0379dc96449069694037cec3469f1",
+        "version": "143.0.3634.0"
     },
     "msedge-canary-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_143.0.3632.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/04ff37fa-fdf8-4c0b-98f5-4252ed21b176?P1=1761682261&P2=404&P3=2&P4=aYXb8Y22KcgjuaNqnoqCqBzLU8jnwsAplk3jKogYQ9n70voObkObUq017q6VgcfGvF0JGFln5oVIRUrik%2bgy5Q%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 191401552,
-        "Sha1": "JyNxPTeBSlZ2F5GwkCJOC6+sRMU=",
-        "Sha256": "bed4a5ad57642aec02a817ba58a8178cdef941827a6cf94df4db7b6f5161d738",
-        "version": "143.0.3632.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_143.0.3634.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/727741c2-2b4e-4801-9977-11a9cffdc3cf?P1=1761744427&P2=404&P3=2&P4=DER2NLoqHeDHmooTEeG%2fOFG563v%2bj1GB%2b%2fTVeo80rr77SY%2bU09zg4yozhu0K6MskmBg1mPHkiO4XYfes4SQX%2bw%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 191402080,
+        "Sha1": "OYLSOXkN6fZUFZLJ1/5tf9rHp+0=",
+        "Sha256": "439f3d4ae14a172f9fd10312b9b34a3e46fb2cecdff50ca106b0b8da7b3ab5d3",
+        "version": "143.0.3634.0"
     }
 }
