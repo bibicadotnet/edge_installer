@@ -107,23 +107,23 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa80768e-00f1-4f7a-9791-fc0d7303de20?P1=1775344721&P2=404&P3=2&P4=dXz0%2fgVmdmTZtUxQC70rKN5wbXrytzhLn1PkhVDwjMI619E%2b7cRogINyPZ0WsdS%2bSWXrfhUWq0abJY2dZcSgAg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa80768e-00f1-4f7a-9791-fc0d7303de20?P1=1775344721&P2=404&P3=2&P4=dXz0%2fgVmdmTZtUxQC70rKN5wbXrytzhLn1PkhVDwjMI619E%2b7cRogINyPZ0WsdS%2bSWXrfhUWq0abJY2dZcSgAg%3d%3d)  
 
 ## canary x86
-**最新版本**：148.0.3949.0  
-**文件大小**：161.59 MB  
-**文件名**：MicrosoftEdge_X86_148.0.3949.0.exe  
-**校验值（Sha256）**：e19dcbc6e8538d3ab9823e41f10446aceb2676bac684dbe67210d1fd9f706ffb  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7b8daddd-df9c-41da-b1f6-d9f5de0f4fcb?P1=1775524237&P2=404&P3=2&P4=jUjievVjfHbPHq1tScB7H5l08Xr6RL%2fTs9JWj4NckE3gqRbLX7L%2bIHMSLQvWQO5Ox%2fLcIkNFSZ5fZFgBMTfLaQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7b8daddd-df9c-41da-b1f6-d9f5de0f4fcb?P1=1775524237&P2=404&P3=2&P4=jUjievVjfHbPHq1tScB7H5l08Xr6RL%2fTs9JWj4NckE3gqRbLX7L%2bIHMSLQvWQO5Ox%2fLcIkNFSZ5fZFgBMTfLaQ%3d%3d)  
+**最新版本**：148.0.3950.0  
+**文件大小**：161.33 MB  
+**文件名**：MicrosoftEdge_X86_148.0.3950.0.exe  
+**校验值（Sha256）**：ff902b8c10fc9e4c3a5ae985ebbe972b3e88e9ea491c94198ac4c087b2d1c192  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/75762eb2-844f-4724-9e16-faee860086d2?P1=1775571643&P2=404&P3=2&P4=kuO22sgXav43dVFgMRcGd3qQn36Wl%2fgPDUojF6kHQaC9JWBh9kTZXPoT0lGXneyejcoiIH6w8XVQuIxvRc18ig%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/75762eb2-844f-4724-9e16-faee860086d2?P1=1775571643&P2=404&P3=2&P4=kuO22sgXav43dVFgMRcGd3qQn36Wl%2fgPDUojF6kHQaC9JWBh9kTZXPoT0lGXneyejcoiIH6w8XVQuIxvRc18ig%3d%3d)  
 
 ## canary x64
-**最新版本**：148.0.3949.0  
-**文件大小**：183.44 MB  
-**文件名**：MicrosoftEdge_X64_148.0.3949.0.exe  
-**校验值（Sha256）**：53177c2bf824ab0d49acc361d067926d86383ae549cc95cceebddead3c93d3fb  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/488f3048-7116-454b-985f-044701ec3c9f?P1=1775524237&P2=404&P3=2&P4=GelcH95S2s2O00NHHCLCGvlm4LG52eQErRfPNTufdWQeFsg5nTMpjPQAtAAGmLf7xkJH6eWXALmBNcmFuYH2hQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/488f3048-7116-454b-985f-044701ec3c9f?P1=1775524237&P2=404&P3=2&P4=GelcH95S2s2O00NHHCLCGvlm4LG52eQErRfPNTufdWQeFsg5nTMpjPQAtAAGmLf7xkJH6eWXALmBNcmFuYH2hQ%3d%3d)  
+**最新版本**：148.0.3950.0  
+**文件大小**：183.39 MB  
+**文件名**：MicrosoftEdge_X64_148.0.3950.0.exe  
+**校验值（Sha256）**：a0f7701e7364fa6cf312b604afd3e4e2aa2e288225b1c66813a6d04caa00d1b1  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/242916ff-9a1f-47be-bbca-ac3a2ecb5f7c?P1=1775571643&P2=404&P3=2&P4=d3wxOM0huHAKbXmZzqZNT%2bwk2rNgS9lXtMA7KtdZImlSBgTv5xgn%2fhT3nVyvnxH4UKCw%2fbR23BaT9isqAuDsDw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/242916ff-9a1f-47be-bbca-ac3a2ecb5f7c?P1=1775571643&P2=404&P3=2&P4=d3wxOM0huHAKbXmZzqZNT%2bwk2rNgS9lXtMA7KtdZImlSBgTv5xgn%2fhT3nVyvnxH4UKCw%2fbR23BaT9isqAuDsDw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：148.0.3949.0  
-**文件大小**：187.93 MB  
-**文件名**：MicrosoftEdge_ARM64_148.0.3949.0.exe  
-**校验值（Sha256）**：21087a12209325bf49d348f81f15006d7d27a1814361306d6fd11f976a0f7620  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/97253e1a-5ace-4f8b-a2c1-f25a09ce73b9?P1=1775524239&P2=404&P3=2&P4=WiNy%2fMjY1M0tx9SEThe4RVo%2bkwFC4LI%2fldWjYw3NzoCJnMRSOymnGPa6iuLQ%2bk03fIlL5xvSgoWL4zyYWcNwvw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/97253e1a-5ace-4f8b-a2c1-f25a09ce73b9?P1=1775524239&P2=404&P3=2&P4=WiNy%2fMjY1M0tx9SEThe4RVo%2bkwFC4LI%2fldWjYw3NzoCJnMRSOymnGPa6iuLQ%2bk03fIlL5xvSgoWL4zyYWcNwvw%3d%3d)  
+**最新版本**：148.0.3950.0  
+**文件大小**：187.73 MB  
+**文件名**：MicrosoftEdge_ARM64_148.0.3950.0.exe  
+**校验值（Sha256）**：23af3553584ec2ca5fa3b788afcf11cb5a327a313d242c84e86228cea8cd1bf0  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/09754dbf-78e0-4851-a2ff-66790356ae47?P1=1775571643&P2=404&P3=2&P4=N5QjxK5LJz5T4%2bi8QoHWd0G5e7%2fHNnDDIj2HOnzABThZOw8onTEUlm5q7utyLof%2bZ0ZEWv20bdB0eMVrofxPQQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/09754dbf-78e0-4851-a2ff-66790356ae47?P1=1775571643&P2=404&P3=2&P4=N5QjxK5LJz5T4%2bi8QoHWd0G5e7%2fHNnDDIj2HOnzABThZOw8onTEUlm5q7utyLof%2bZ0ZEWv20bdB0eMVrofxPQQ%3d%3d)  
 
